@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TEC-3</string>
+    <string name="titulocarga">SIT</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="marca">SIT Inc</string>
+    <string name="anio">2020</string>
+    <string name="disfruta">Disfruta de la experiencia</string>
+    <string name="title_activity_navegador">Navegador</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DISFRUTA CON SIT</string>
+    <string name="nav_header_subtitle">Estamos a tu disposición</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="saludo_home">BIENVENIDO</string>
+    <string name="explicacion_home">TE EXPLICAMOS ALGO DE SIT</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Rutas</string>
+    <string name="menu_slideshow">Game</string>
+    <string name="rutas_title">TUS RUTAS PREFERIDAS</string>
+    <string name="title_activity_mapa">Map</string>
+</resources>

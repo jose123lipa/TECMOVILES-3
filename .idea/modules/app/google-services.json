@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076929306396",
+    "firebase_url": "https://tec-3-281117.firebaseio.com",
+    "project_id": "tec-3-281117",
+    "storage_bucket": "tec-3-281117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076929306396:android:83bca841024a08c330e4d9",
+        "android_client_info": {
+          "package_name": "com.example.tec_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076929306396-b6pcf36vr78lvbrmg56l02kfc2pg61bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tec_3",
+            "certificate_hash": "363469961520a11230b007a5718f16bc734f8aac"
+          }
+        },
+        {
+          "client_id": "1076929306396-nir55ggbntuvtejb6d00ulr135q4rtph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAojoAt3M6uyPcMcfyu7jRIsieu_7Tx1uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076929306396-nir55ggbntuvtejb6d00ulr135q4rtph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
