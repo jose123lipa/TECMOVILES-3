@@ -1,3 +1,6 @@
+<!---CHURA CHAMBI PABEL-->
+<!---CCUNO PAUL ARNALDO-->
+<!---LIPA OCHOA JOSE-->
 <resources>
     <string name="app_name">TEC-3</string>
     <string name="titulocarga">SIT</string>
@@ -18,5 +21,6 @@
     <string name="menu_gallery">Rutas</string>
     <string name="menu_slideshow">Game</string>
     <string name="rutas_title">TUS RUTAS PREFERIDAS</string>
+    <string name="game_title">JUEGO DE TM</string>
     <string name="title_activity_mapa">Map</string>
 </resources>

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Inicio"
     android:background="#3F51B5">
-
+    <!---CHURA CHAMBI PABEL-->
     <ImageView
         android:id="@+id/bus_logo"
         android:layout_width="356dp"

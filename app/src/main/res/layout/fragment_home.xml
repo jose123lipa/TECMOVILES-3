@@ -7,6 +7,7 @@
     android:background="#B3BCF3"
     tools:context=".ui.home.HomeFragment">
 
+    <!---LIPA OCHOA JOSE-->
     <FrameLayout
         android:layout_width="300dp"
         android:layout_height="229dp"

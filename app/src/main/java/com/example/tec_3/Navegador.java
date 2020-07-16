@@ -1,4 +1,5 @@
 package com.example.tec_3;
+//AUTOR : CHURA PABEL JOEL,CCUNO CARLOS PAUL ARNALDO, LIPA OCHOA JOSE,  //
 
 import android.os.Bundle;
 import android.view.View;

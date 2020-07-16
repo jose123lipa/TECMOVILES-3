@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.gallery.GalleryFragment">
-
+    <!---CHURA CHAMBI PABEL-->
     <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
@@ -33,9 +33,11 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
+        android:layout_marginStart="160dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="12dp"
         android:background="@drawable/btn_style_app"
-        android:text="Button"
+        android:text="Mapa"
         android:textColor="#FFFFFF"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2" />

@@ -24,7 +24,8 @@ import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.firebase.auth.FirebaseAuth;
 import com.squareup.picasso.Picasso;
-
+//AUTOR : LIPA OCHOA JOSE,  //
+// INICIO//
 public class HomeFragment extends Fragment {
 
     private HomeViewModel homeViewModel;

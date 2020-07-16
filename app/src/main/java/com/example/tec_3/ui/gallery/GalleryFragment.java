@@ -1,5 +1,6 @@
 package com.example.tec_3.ui.gallery;
-
+//AUTOR : CHURA PABEL JOEL,CCUNO CARLOS PAUL ARNALDO, LIPA OCHOA JOSE,  //
+// INICIO//
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
